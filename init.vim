@@ -114,7 +114,7 @@ endfunction
 let NERDTreeShowHidden = 1
 let NERDTreeDirArrows = 1
 let NERDTreeHijackNetrw = 1
-map <C-e> :NERDTreeToggle<CR>
+map <C-g> :NERDTreeToggle<CR>
 
 " Nerd tree highlighting
 let g:NERDTreeFileExtensionHighlightFullName = 1
