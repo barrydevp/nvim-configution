@@ -91,6 +91,7 @@ let g:lightline = {
   \   'component_function': {
   \     'gitbranch': 'fugitive#head',
   \     'cocstatus': 'coc#status',
+  \     'filename': 'LightlineFilename'
   \   }
   \ }
 let g:lightline.tabline = {
